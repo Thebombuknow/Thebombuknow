@@ -5,7 +5,7 @@
 - Stay tuned for when I actually program something good enough to upload here.
 
 ## Socials
-YT: https://www.youtube.com/channel/UCVR2gR38_zXLzT7XSYkOTJA
-TikTok: https://www.tiktok.com/@thatoneyoutuberperson?lang=en
-Twitter (basically inactive): https://www.twitter.com/TBUkYouTube
-Soundcloud: https://www.soundcloud.com/tbuk-music
+* YT: https://www.youtube.com/channel/UCVR2gR38_zXLzT7XSYkOTJA
+* TikTok: https://www.tiktok.com/@thatoneyoutuberperson?lang=en
+* Twitter (basically inactive): https://www.twitter.com/TBUkYouTube
+* Soundcloud: https://www.soundcloud.com/tbuk-music
