@@ -1,8 +1,8 @@
 ## About Me
-- 👋 Hi, I’m @Thebombuknow
+- 👋 Hi, I’m @TBUk
 - I'm an amatuer programmer, 3D artist, and musician living in the US.
-- I'm currently learning how to program in HTML, CSS, Java, and Python 3
-- Stay tuned for when I actually program something good enough to upload here.
+- I'm a full-stack developer who codes in Python 3, Java, Javascript, and HTML and CSS (which are technically markup languages, but you get the point
+- Currently working on a Python wrapper for Minecraft command blocks, and a ML-based Discord moderation bot. Also writing vision code for FRC using YOLOv5.
 
 ## Socials
 * YT: https://www.youtube.com/channel/UCVR2gR38_zXLzT7XSYkOTJA
