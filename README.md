@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @TBUk
 - I'm an amatuer programmer, 3D artist, and musician living in the US.
 - I'm a full-stack developer who codes in Python 3, Java, Javascript, and HTML and CSS (which are technically markup languages, but you get the point)
-- Currently working on a Python wrapper for Minecraft command blocks, and a ML-based Discord moderation bot. Also writing vision code for FRC using YOLOv5.
+- Currently working on a console-based chat app, found on my Replit page here: https://replit.com/@TBUk/ShellText-152
 
 ## Socials
 * YT: https://www.youtube.com/channel/UCVR2gR38_zXLzT7XSYkOTJA
