@@ -9,6 +9,7 @@
 * TikTok: https://www.tiktok.com/@thatoneyoutuberperson?lang=en
 * Twitter (basically inactive): https://www.twitter.com/TBUkYouTube
 * Soundcloud: https://www.soundcloud.com/tbuk-music
+* Replit: https://replit.com/@TBUk
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbukfrc)](https://github.com/anuraghazra/github-readme-stats)
