@@ -5,9 +5,6 @@
 - Currently working on a console-based chat app, found on my Replit page here: https://replit.com/@TBUk/ShellText-152
 
 ## Socials
-* YT: https://www.youtube.com/channel/UCVR2gR38_zXLzT7XSYkOTJA
-* TikTok: https://www.tiktok.com/@thatoneyoutuberperson?lang=en
-* Twitter (basically inactive): https://www.twitter.com/TBUkYouTube
 * Soundcloud: https://www.soundcloud.com/tbuk-music
 * Replit: https://replit.com/@TBUk
 
