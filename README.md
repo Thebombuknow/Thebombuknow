@@ -5,7 +5,6 @@
 - Currently working on a web-based fully-customizable messenger. https://openmessage.tbuk.me/
 
 ## Socials
-* Soundcloud: https://www.soundcloud.com/tbuk-music
 * Replit: https://replit.com/@TBUk
 
 ## Stats
